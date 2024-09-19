@@ -1,20 +1,31 @@
 # Overworld Theme
 
+## Info
+
 Game: Legend of Zelda
 Track: 03
-Motifs:
-- [1986-Main1](/motifs/1986-Main1.md)
-- Timestamps: 
+
+## Structure:
+A.
+- A: Single section, organized in an ABAC structure.
+
+## Motifs:
+
+### [1986-Main1](/motifs/1986-Main1.md)
+- Timestamps: 0:06
 - Section: A
 
-- [1986-Main2](/motifs/1986-Main2.md)
-- Timestamps: 
+### [1986-Main2](/motifs/1986-Main2.md)
+- Timestamps: 0:07
 - Section: A
 
-- [1986-Main3](/motifs/1986-Main3.md)
-- Timestamps: 
+### [1986-Main3](/motifs/1986-Main3.md)
+- Timestamps: 0:23
 - Section: A
 
-Comments: The main theme is structured around 3 motifs which appear throughout the series.
+## Type
+- Original
 
-Original
+## Comments
+
+The main theme appears a lot throughout the series, mostly with the 3 motifs together.
