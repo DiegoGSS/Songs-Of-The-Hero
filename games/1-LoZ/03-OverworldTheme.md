@@ -26,7 +26,7 @@ Intro | A.
 
 ## Type
 - Arrangement
-- Original: [01-TitleTheme](/games/1-LoZ/01-TitleTheme)
+- Original: [01-TitleTheme](/games/1-LoZ/01-TitleTheme.md)
 
 ## Comments
 

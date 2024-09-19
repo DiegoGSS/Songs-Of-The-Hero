@@ -12,7 +12,7 @@ ABA
 
 ## Motifs:
 
-### [Motiff 1](/test)
+### [Motiff 1](MotifTemplate.md)
 - Timestamps: Approximate timestamps in which the motiff can be heard. 
 - Section: Section of the song in which the motiff is featured.
 - Comments: Comments on the use of the motiff
