@@ -18,7 +18,7 @@ ABA
 - Comments: Comments on the use of the motiff
 
 ## Type*
-- Original/Medley/Arrangement
+- Original/Medley/Arrangement/SFX
 - Description:
 
 ## Comments
