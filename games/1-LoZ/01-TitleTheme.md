@@ -12,16 +12,20 @@ Intro | A.
 
 ## Motifs:
 
-### [1986-Main1](/motifs/1986-Main1.md)
-- Timestamps: 0:06
+### [1986 Intro Main](/motifs/1986-IntroMain.md)
+- Timestamps: 0:00
+- Section: Intro
+
+### [1986 Main 1](/motifs/1986-Main1.md)
+- Timestamps: 0:15
 - Section: A
 
-### [1986-Main2](/motifs/1986-Main2.md)
-- Timestamps: 0:07
+### [1986 Main 2](/motifs/1986-Main2.md)
+- Timestamps: 0:17
 - Section: A
 
-### [1986-Main3](/motifs/1986-Main3.md)
-- Timestamps: 0:23
+### [1986 Main 3](/motifs/1986-Main3.md)
+- Timestamps: 0:53
 - Section: A
 
 ## Type
